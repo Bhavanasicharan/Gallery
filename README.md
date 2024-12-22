@@ -23,6 +23,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 # PROGRAM :
+```
 <h2 align="center">SEVEN WOUNDERS OF THE WORLD</h2>
 <!DOCTYPE html>
 
@@ -189,6 +190,7 @@ window.onclick = function(event) {
   </footer>
 </body>
 </html>
+```
 # OUTPUT:
 ![alt text](<Screenshot 2024-12-22 223423.png>)
 ![alt text](<Screenshot 2024-12-22 223436.png>)
