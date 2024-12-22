@@ -24,5 +24,14 @@ Publish the website in the given URL.
 
 # PROGRAM :
 # OUTPUT:
+![alt text](<Screenshot 2024-12-22 223423.png>)
+![alt text](<Screenshot 2024-12-22 223436.png>)
+![alt text](<Screenshot 2024-12-22 223448.png>)
+![alt text](<Screenshot 2024-12-22 223701.png>)
+![alt text](<Screenshot 2024-12-22 223716.png>)
+![alt text](<Screenshot 2024-12-22 223728.png>)
+![alt text](<Screenshot 2024-12-22 223737.png>)
+![alt text](<Screenshot 2024-12-22 223749.png>)
+![alt text](<Screenshot 2024-12-22 223800.png>)
 # RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
